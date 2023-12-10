@@ -1,0 +1,20 @@
+{
+  "name": "coreworker",
+  "version": "1.0.0",
+  "description": "Website to Image, Website to Text. Node JS based.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PROX",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^6.0.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "openai": "^4.20.1",
+    "puppeteer": "^21.6.0",
+    "uuid": "^9.0.1"
+  }
+}
