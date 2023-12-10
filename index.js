@@ -167,5 +167,5 @@ app.get('/www2imgs', function(req, res) {
 });
 
 app.listen(3000, function () {
-    console.log('Example app listening on port 3000!');
+    console.log('Core WWWWorker listens to :3000!');
 });

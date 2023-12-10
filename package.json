@@ -1,13 +1,13 @@
 {
   "name": "coreworker",
   "version": "1.0.0",
-  "description": "Website to Image, Website to Text. Node JS based.",
+  "description": "Website to Image, Website to Text. Website to Images as Zip. Node JS based.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "PROX",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "archiver": "^6.0.1",
     "dotenv": "^16.3.1",
